@@ -1,0 +1,41 @@
+<resources>
+    //Generic
+    <string name="app_name">Watchlist</string>
+    <string name="add">Add</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="clearTitleDialog">Clear data</string>
+    <string name="clearMessageDialog">Are you sure you want to clear the watchlist?</string>
+    <string name="cleared">Cleared</string>
+    <string name="quitTitleDialog">Quit?</string>
+    <string name="quitMessageDialog">Are you sure you want to exit?</string>
+
+    //MainActivity starts from here
+    <string name="hello">Start by inserting movies to your watchlist</string>
+    <string name="menu_delete">Clear data</string>
+    <string name="add_new">Add new</string>
+    <string name="view_list">View list</string>
+
+    //AddMovie activity starts from here
+    <string name="addInfo">Fill in the details</string>
+    <string name="movie">Movie:</string>
+    <string name="title">Title</string>
+    <string name="director">Director</string>
+    <string name="actors">Actors</string>
+    <string name="genre">Genre</string>
+    <string name="runtime">Runtime</string>
+    <string name="imdbRating">Imdb rating</string>
+    <string name="movieSearch">Search for a title to add</string>
+    <string name="movieSearchText">Search</string>
+    <string name="movieAdded">Movie added</string>
+
+    //ViewMovies activity starts from here
+    <string name="viewInfo">Here is your current watchlist</string>
+    <string name="viewNumbers">Number of titles</string>
+    <string name="viewDeleteHint">Which movie to delete?</string>
+    <string name="viewDeleteButtonText">Delete</string>
+    <string name="deleteTitleDialog">Delete movie</string>
+    <string name="deleteMessageDialog">Are you sure you want to delete</string>
+    <string name="viewDeleted">Deleted</string>
+    <string name="viewNotFound">No movie with that name found</string>
+</resources>

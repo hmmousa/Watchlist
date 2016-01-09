@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Watchlist</string>
+    <string name="actors">Näyttelijät</string>
+    <string name="addInfo">Täytä kentät</string>
+    <string name="add_new">Lisää uusi</string>
+    <string name="date">Päivämäärä</string>
+    <string name="deleteMessageDialog">Oletko varma että haluat tyhjentää listan</string>
+    <string name="deleteTitleDialog">Poista elokuva</string>
+    <string name="director">Ohjaaja</string>
+    <string name="genre">Genre</string>
+    <string name="hello">Aloita lisäämällä elokuva listallesi</string>
+    <string name="location">Paikka</string>
+    <string name="menu_delete">Poista tiedot</string>
+    <string name="movie">Elokuva:</string>
+    <string name="no">Ei</string>
+    <string name="title">Nimi</string>
+    <string name="viewInfo">Tässä on nykyinen listasi</string>
+    <string name="view_list">Näytä lista</string>
+    <string name="whenWhere">Missä ja koska:</string>
+    <string name="yes">Kyllä</string>
+    <string name="quitMessageDialog">Oletko varma että haluat poistua?</string>
+    <string name="quitTitleDialog">Poistu</string>
+    <string name="add">Lisää</string>
+    <string name="viewDeleted">Poistettu</string>
+    <string name="viewNumbers">Elokuvien määrä</string>
+    <string name="viewNotFound">Elokuvaa ei löytynyt</string>
+    <string name="clearMessageDialog">Oletko varma että haluat tyhjentää listan</string>
+    <string name="clearTitleDialog">Poista tiedot</string>
+    <string name="cleared">Tiedot poistettu</string>
+    <string name="viewDeleteHint">Minkä elokuvan haluat poistaa?</string>
+    <string name="viewDeleteButtonText">Poista</string>
+    <string name="movieAdded">Elokuva lisätty</string>
+</resources>

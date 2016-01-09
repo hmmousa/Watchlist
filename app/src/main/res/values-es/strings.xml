@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Watchlist</string>
+    <string name="actors">Actores</string>
+    <string name="add">Añadir</string>
+    <string name="addInfo">Rellene los detalles</string>
+    <string name="add_new">Añadir nuevo</string>
+    <string name="date">Fecha</string>
+    <string name="deleteMessageDialog">¿Seguro que desea borrar la lista?</string>
+    <string name="director">Director</string>
+    <string name="genre">Género</string>
+    <string name="hello">Comience por insertar películas a su lista</string>
+    <string name="location">Localización</string>
+    <string name="menu_delete">Borrar datos</string>
+    <string name="movie">Película:</string>
+    <string name="no">No</string>
+    <string name="quitMessageDialog">¿Seguro que quieres salir?</string>
+    <string name="quitTitleDialog">¿Dejar?</string>
+    <string name="title">Título</string>
+    <string name="viewDeleted">Suprimido</string>
+    <string name="viewInfo">Aquí está su lista actual</string>
+    <string name="viewNumbers">Número de títulos</string>
+    <string name="view_list">Ver lista</string>
+    <string name="whenWhere">Cuando y donde:</string>
+    <string name="yes">Sí</string>
+    <string name="clearMessageDialog">¿Seguro que desea borrar la lista?</string>
+    <string name="clearTitleDialog">Borrar datos</string>
+    <string name="viewNotFound">Ninguna película con ese nombre encontrado</string>
+    <string name="deleteTitleDialog">Eliminar película</string>
+    <string name="cleared">Borrado</string>
+    <string name="viewDeleteHint">¿Qué película eliminar?</string>
+    <string name="viewDeleteButtonText">Borrar</string>
+    <string name="movieAdded">Película Agregado</string>
+</resources>
